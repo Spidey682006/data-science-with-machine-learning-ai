@@ -15,6 +15,10 @@ This project implements a **Business Problem Analyzer**, a command-line Python a
 * Identify target variables
 * Recommend evaluation metrics
 * Highlight risks and ethical considerations
+* Architecture diagram
+* Execution flow
+* Future roadmap
+* Example output
 
 ## Features
 
