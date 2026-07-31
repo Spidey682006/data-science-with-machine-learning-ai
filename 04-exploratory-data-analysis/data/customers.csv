@@ -1,0 +1,13 @@
+customer_id,name,age,city,gender,purchase_amount
+1,Alice,24,Jaipur,Female,5500
+2,Bob,31,Delhi,Male,7200
+3,Charlie,26,Mumbai,Male,6100
+4,David,29,Delhi,Male,4800
+5,Eva,35,Bengaluru,Female,8200
+6,Frank,27,Pune,Male,6700
+7,Grace,30,Chennai,Female,7500
+8,Henry,31,Delhi,Male,5900
+9,Irene,33,Kolkata,Female,6900
+10,Jack,45,Hyderabad,Male,9100
+11,Kate,28,Jaipur,Female,6400
+12,Liam,38,Mumbai,Male,8100
