@@ -1,0 +1,14 @@
+EMPLOYEE DATA REPORT
+========================================
+
+Total Employees : 10
+Average Salary  : 55800.00
+Highest Salary  : Jack (81000)
+
+Employees with 5+ Years Experience
+----------------------------------------
+Bob (HR)
+Charlie (Finance)
+Frank (Finance)
+Henry (IT)
+Jack (Finance)
