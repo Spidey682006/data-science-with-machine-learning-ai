@@ -1,0 +1,21 @@
+STATISTICAL DECISION SUPPORT REPORT
+========================================
+
+Total Records : 15
+
+Average Sales : 34866.67
+Median Sales : 30000.00
+Highest Sale : 65000
+Lowest Sale : 14000
+Variance : 343123809.52
+Standard Deviation : 18523.60
+
+Most Sold Product : Laptop
+Best Performing Region : East
+
+Business Suggestions
+---------------------
+Average sales should be improved.
+Increase marketing in the best-performing region.
+Keep promoting the most sold product.
+Review products with lower sales.

@@ -1,0 +1,16 @@
+sale_id,product,region,sales_amount
+1,Laptop,North,52000
+2,Phone,East,28000
+3,Tablet,South,18000
+4,Laptop,West,61000
+5,Monitor,North,14000
+6,Phone,South,32000
+7,Laptop,East,57000
+8,Monitor,West,17000
+9,Tablet,North,22000
+10,Phone,West,30000
+11,Laptop,South,65000
+12,Monitor,East,16000
+13,Tablet,West,21000
+14,Phone,North,31000
+15,Laptop,East,59000
