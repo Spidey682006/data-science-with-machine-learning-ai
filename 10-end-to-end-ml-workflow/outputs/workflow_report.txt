@@ -1,0 +1,21 @@
+END TO END MACHINE LEARNING WORKFLOW
+=============================================
+
+Dataset Information
+-------------------
+Total Records : 15
+
+Workflow Steps
+-------------------
+1. Read the dataset.
+2. Selected the input columns.
+3. Selected the target column.
+4. Split the data into training and testing sets.
+5. Created a Decision Tree model.
+6. Trained the model.
+7. Predicted the testing data.
+8. Saved the prediction results.
+
+Conclusion
+-------------------
+The complete machine learning workflow was performed successfully from reading the data to generating predictions.
