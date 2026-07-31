@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Rating
+1,Laptop,Electronics,55000,4.7
+2,Headphones,Electronics,2500,4.3
+3,Keyboard,Electronics,1800,4.2
+4,Coffee Maker,Home,4200,4.6
+5,Vacuum Cleaner,Home,7000,4.5
+6,Mixer Grinder,Home,3500,4.1
+7,Football,Sports,1200,4.8
+8,Cricket Bat,Sports,2500,4.6
+9,Tennis Racket,Sports,3200,4.4
+10,Smart Watch,Electronics,8500,4.8
