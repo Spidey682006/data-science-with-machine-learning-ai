@@ -1,0 +1,18 @@
+DATA CLEANING SUMMARY
+========================================
+Original Records : 12
+Duplicate Records Removed : 0
+Final Records : 12
+
+Missing Age Values Filled : 0
+Missing City Values Filled : 1
+
+Cleaning Operations
+----------------------------------------
+- Removed duplicate records
+- Filled missing age values using median
+- Filled missing purchase values using mean
+- Filled missing cities with 'Unknown'
+- Trimmed whitespace
+- Standardized capitalization
+- Created customer_segment column
