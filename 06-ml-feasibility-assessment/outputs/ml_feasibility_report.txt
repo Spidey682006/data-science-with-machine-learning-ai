@@ -1,0 +1,18 @@
+MACHINE LEARNING FEASIBILITY REPORT
+=============================================
+
+Dataset Records : 15
+Dataset Columns : 5
+Missing Values : 0
+
+Target Column : churn
+Recommended Approach : Classification
+
+Reason
+--------------------
+The target column contains categories such as Yes and No.
+
+Conclusion
+--------------------
+The dataset is suitable for Machine Learning.
+The recommended approach is Classification.
