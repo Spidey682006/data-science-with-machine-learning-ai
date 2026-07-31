@@ -4,23 +4,23 @@ A collection of 15 hands-on Data Science, Machine Learning, and Artificial Intel
 
 ## Repository Structure
 
-| Project | Title                               | Status         |
-| ------- | ----------------------------------- | -------------- |
-| 01      | Business Problem Framing            | 🚧 In Progress |
-| 02      | Python Data Processing              | ⏳ Planned      |
-| 03      | Data Cleaning & Preparation         | ⏳ Planned      |
-| 04      | Exploratory Data Analysis           | ⏳ Planned      |
-| 05      | Statistical Decision Support        | ⏳ Planned      |
-| 06      | ML Feasibility Assessment           | ⏳ Planned      |
-| 07      | Predictive Modeling                 | ⏳ Planned      |
-| 08      | Customer Segmentation               | ⏳ Planned      |
-| 09      | AI Use-Case Design                  | ⏳ Planned      |
-| 10      | End-to-End ML Workflow              | ⏳ Planned      |
-| 11      | Customer Churn Prediction           | ⏳ Planned      |
-| 12      | Customer Segmentation & Profiling   | ⏳ Planned      |
-| 13      | AI Recommendation System            | ⏳ Planned      |
-| 14      | Sales / Demand Forecasting          | ⏳ Planned      |
-| 15      | Business-First Data Science Project | ⏳ Planned      |
+| Project | Title                               | Status   |
+| ------- | ----------------------------------- | -------- |
+| 01      | Business Problem Framing            |  Done    |
+| 02      | Python Data Processing              |  Done    |
+| 03      | Data Cleaning & Preparation         |  Done    |
+| 04      | Exploratory Data Analysis           |  Done    |
+| 05      | Statistical Decision Support        |  Done    |
+| 06      | ML Feasibility Assessment           |  Done    |
+| 07      | Predictive Modeling                 |  Done    |
+| 08      | Customer Segmentation               |  Done    |
+| 09      | AI Use-Case Design                  |  Done    |
+| 10      | End-to-End ML Workflow              |  Done    |
+| 11      | Customer Churn Prediction           |  Done    |
+| 12      | Customer Segmentation & Profiling   |  Done    |
+| 13      | AI Recommendation System            |  Done    |
+| 14      | Sales / Demand Forecasting          |  Done    |
+| 15      | Business-First Data Science Project |  Done    |
 
 ## Technologies
 
