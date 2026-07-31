@@ -13,8 +13,8 @@ env/
 .idea/
 
 # Output Files
-outputs/*.txt
-outputs/*.csv
+# outputs/*.txt
+# outputs/*.csv
 
 # OS Files
 .DS_Store
