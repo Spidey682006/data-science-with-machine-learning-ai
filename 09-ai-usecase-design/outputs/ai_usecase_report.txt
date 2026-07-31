@@ -1,0 +1,22 @@
+AI USE CASE DESIGN
+========================================
+
+Business Problem
+----------------
+Customer Support
+
+Current Method
+--------------
+Manual email replies
+
+AI Objective
+------------
+Automatic ticket classification
+
+Expected Benefit
+----------------
+Faster response time
+
+Conclusion
+----------
+Artificial Intelligence can reduce manual work, improve efficiency, and support better business decisions.
