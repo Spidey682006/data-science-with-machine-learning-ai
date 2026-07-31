@@ -1,0 +1,25 @@
+PREDICTIVE MODEL REPORT
+======================
+
+Problem:
+Customer Purchase Prediction
+
+Machine Learning Type:
+Supervised Learning
+
+Algorithm Used:
+Logistic Regression
+
+Training Data:
+80%
+
+Testing Data:
+20%
+
+Model Accuracy:
+100.0%
+
+Model Performance: Good
+
+Conclusion:
+The model can predict customer purchase behaviour.
