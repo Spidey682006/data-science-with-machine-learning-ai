@@ -1,0 +1,19 @@
+CUSTOMER SEGMENTATION REPORT
+========================================
+
+Total Customers : 15
+
+Number of Clusters : 3
+
+Cluster 0
+Customers : 7
+
+Cluster 1
+Customers : 6
+
+Cluster 2
+Customers : 2
+
+Conclusion
+--------------------
+Customers are divided into three groups based on Annual Income and Spending Score.
