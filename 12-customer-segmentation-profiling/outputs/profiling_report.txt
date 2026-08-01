@@ -1,0 +1,24 @@
+CUSTOMER SEGMENT PROFILING REPORT
+=============================================
+
+Cluster 0
+--------------------
+Customers : 2
+Average Income : 16.0
+Average Spending Score : 39.5
+
+Cluster 1
+--------------------
+Customers : 7
+Average Income : 18.0
+Average Spending Score : 82.29
+
+Cluster 2
+--------------------
+Customers : 6
+Average Income : 19.33
+Average Spending Score : 9.5
+
+Conclusion
+--------------------
+Each customer segment has different income and spending behaviour. These profiles help businesses understand their customers better.

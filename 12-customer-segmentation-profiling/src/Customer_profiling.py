@@ -7,7 +7,7 @@ import pandas as pd
 project_folder = os.path.dirname(os.path.dirname(__file__))
 
 # File locations
-data_file = os.path.join(project_folder, "data", "customer_segments.csv")
+data_file = os.path.join(project_folder, "data", "/workspaces/data-science-with-machine-learning-ai/12-customer-segmentation-profiling/data/customer_segmentation.csv")
 output_folder = os.path.join(project_folder, "outputs")
 
 # Create outputs folder if it does not exist
