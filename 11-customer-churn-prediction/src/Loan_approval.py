@@ -470,7 +470,7 @@ print(
 print(
     os.path.join(
         OUTPUT_FOLDER,
-        "education_vs_loan.png"
+        "education_distribution.png"
     )
 )
 
