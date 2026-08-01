@@ -1,0 +1,42 @@
+==================================================
+Loan Approval Prediction Project Report
+==================================================
+
+Dataset Summary
+-----------------------------
+Total Records : 381
+Total Columns : 13
+
+Model Used
+-----------------------------
+Decision Tree Classifier
+
+Model Performance
+-----------------------------
+Accuracy : 72.73%
+
+Confusion Matrix
+-----------------------------
+[[ 8 13]
+ [ 8 48]]
+
+Classification Report
+-----------------------------
+              precision    recall  f1-score   support
+
+           0       0.50      0.38      0.43        21
+           1       0.79      0.86      0.82        56
+
+    accuracy                           0.73        77
+   macro avg       0.64      0.62      0.63        77
+weighted avg       0.71      0.73      0.71        77
+
+Top Important Features
+-----------------------------
+Credit_History : 0.3983
+ApplicantIncome : 0.1601
+LoanAmount : 0.1389
+CoapplicantIncome : 0.1262
+Dependents : 0.0522
+
+Project completed successfully.
