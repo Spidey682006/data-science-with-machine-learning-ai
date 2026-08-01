@@ -1,18 +1,34 @@
-# Project 11 – Customer Churn Prediction
+# Project 11 – Loan Approval Prediction using Decision Tree
 
 ## Objective
 
-Predict whether a customer is likely to leave the company using a Decision Tree classifier.
+Build a machine learning model to predict whether a loan application will be approved based on applicant details using a Decision Tree Classifier.
 
 ---
 
 ## Topics Covered
 
-- Classification
-- Decision Tree
+- Data Loading
+- Data Preprocessing
+- Missing Value Handling
+- Label Encoding
+- Exploratory Data Analysis (EDA)
+- Decision Tree Classification
 - Train-Test Split
-- Prediction
-- Customer Churn Analysis
+- Model Evaluation
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+- Feature Importance
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ---
 
@@ -27,7 +43,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python src/churn_prediction.py
+python src/Loan_approval.py
 ```
 
 ---
@@ -36,12 +52,41 @@ python src/churn_prediction.py
 
 ```text
 outputs/
-├── churn_predictions.csv
-└── churn_report.txt
+├── predictions.csv
+├── project_report.txt
+├── loan_status_distribution.png
+├── income_distribution.png
+├── loan_amount_distribution.png
+├── education_distribution.png
+└── feature_importance.png
+```
+
+---
+
+## Project Workflow
+
+```text
+Load Dataset
+      ↓
+Handle Missing Values
+      ↓
+Encode Categorical Data
+      ↓
+Perform Exploratory Data Analysis
+      ↓
+Split Dataset into Training and Testing Sets
+      ↓
+Train Decision Tree Model
+      ↓
+Make Predictions
+      ↓
+Evaluate Model Performance
+      ↓
+Save Results and Reports
 ```
 
 ---
 
 ## Conclusion
 
-This project predicts customer churn using a simple Decision Tree model and saves both the prediction results and a summary report.
+This project demonstrates a complete machine learning workflow for loan approval prediction. The dataset is cleaned, categorical features are encoded, and a Decision Tree classifier is trained to predict loan approval status. The model is evaluated using accuracy, a confusion matrix, and a classification report. The project also generates graphs, prediction results, and a summary report, making it a simple and practical example of a classification problem.
